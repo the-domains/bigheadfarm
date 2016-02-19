@@ -1,0 +1,28 @@
+name: bigheadfarm
+favicon: null
+layout_spectrum: 0.08131345035508275
+typography_spectrum: 0.5897795057389885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.843391728354618
+  lightness: 0.3164179299492389
+  saturation: 0.9265667572617531
+  rhythmicContrast: 0.10901988530531526
+purpose: []
